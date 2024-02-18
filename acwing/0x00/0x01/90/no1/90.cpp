@@ -1,3 +1,5 @@
+//蓝书上的法2
+//但是不知道为什么过不了
 #include <iostream>
 typedef unsigned long long ull;
 using namespace std;
