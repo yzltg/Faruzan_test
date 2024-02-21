@@ -58,7 +58,7 @@ void solve(){
     }
     for(int i=1;i<=m;i++) {
         cin>>caption[i];
-        language[++tot]=video[i];
+        language[++tot]=caption[i];
     }
     sort(language+1,language+tot+1);
     length=unique(language+1,language+tot+1)-(language+1);
