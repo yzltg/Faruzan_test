@@ -49,7 +49,7 @@ void solve(){
     cin>>n;
     for(int i=1;i<=n;i++){
         cin>>people[i];
-        language[++tot];
+        language[++tot]=people[i];
     }
     cin>>m;
     for(int i=1;i<=m;i++) {
