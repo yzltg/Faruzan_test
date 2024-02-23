@@ -37,8 +37,6 @@ void solve(){
 }
 int main(){
     ios::sync_with_stdio(0),cin.tie(0),cout.tie(0);
-    freopen("example.in","r",stdin);
-    freopen("write.out","w",stdout);
     solve();
     return 0;
 }
